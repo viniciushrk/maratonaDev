@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0e8a32c4-2cf2-4938-adea-84082735655f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xw7DpBO5ROU5xEnt4IZwKmp1mH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/maratonadev/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8a32c4-2cf2-4938-adea-84082735655f" name="Default Changelist" comment="" />
+      <created>1581945185383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581945185383</updated>
+      <workItem from="1581945186864" duration="1512000" />
+      <workItem from="1581960346334" duration="222000" />
+      <workItem from="1582026300840" duration="1204000" />
+      <workItem from="1582153827252" duration="9712000" />
+      <workItem from="1582168797258" duration="8660000" />
+      <workItem from="1582198789342" duration="1213000" />
+      <workItem from="1582216374731" duration="92000" />
+      <workItem from="1583722733717" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="146" key="FileChooserDialogImpl" timestamp="1582216463297">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="465" y="146" key="FileChooserDialogImpl/0.36.1366.732/1366.0.1366.768@0.36.1366.732" timestamp="1582216463297" />
+    <state x="191" y="36" key="SettingsEditor" timestamp="1581960330194">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="191" y="36" key="SettingsEditor/0.36.1366.732/1366.0.1366.768@0.36.1366.732" timestamp="1581960330194" />
+    <state x="37" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582174121798">
+      <screen x="0" y="36" width="1366" height="732" />
+    </state>
+    <state x="37" y="89" width="672" height="678" key="search.everywhere.popup/0.36.1366.732/1366.0.1280.1024@0.36.1366.732" timestamp="1582174121798" />
+  </component>
+</project>
